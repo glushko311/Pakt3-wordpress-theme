@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="be5bf102-dff5-465c-8b87-9ac9b130a235" name="pakt3" url="http://185.67.2.6">
+        <fileTransfer host="185.67.2.6" port="21" rootFolder="/pakt3.foss-art-soft.com/wp-content/themes/pakt3" username="wierezqg">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
